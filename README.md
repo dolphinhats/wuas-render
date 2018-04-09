@@ -5,10 +5,10 @@ More details will be provided as development is continued.
 
 ## Experimental feature list:
 
-[] - Non-grid based space positioning
+[ ] - Non-grid based space positioning
 	- Implement a "winding path" structure. Possiply utilizing a linked list.
 	
-[] - Arbitrary board feature/decoration placement.
+[ ] - Arbitrary board feature/decoration placement.
 	- Place decoration that does not follow the traditional tile-layout.
 
 ---
